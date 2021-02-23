@@ -1,0 +1,6 @@
+test typing
+"hello world"
+...
+this is it?
+/n/
+-----
